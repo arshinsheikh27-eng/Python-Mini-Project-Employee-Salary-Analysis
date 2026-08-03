@@ -51,9 +51,9 @@ The dataset contains the following information:
 ## 📂 Project Files
 
 - Employee_Salary.csv
-- employee_salary_analysis.py
+- Employee_Salary_Analysis.py
 - average_salary_across_departments.png
-- employee_distribution_across_departments.png
+- employee_distribution_across_department.png
 - salary_analysis_output.png
 
 
