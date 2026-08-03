@@ -45,16 +45,12 @@ The dataset contains the following information:
 ## 📈 Visualizations
 
 - Average Salary Across Departments (Bar Chart)
+
+  ![Bar Chart](average_salary_across_departments.png)
+
 - Employee Distribution Across Departments (Pie Chart)
 
-
-### Average Salary Across Departments
-
-![Bar Chart](average_salary_across_departments.png)
-
-### Employee Distribution Across Departments
-
-![Pie Chart](employee_distribution_across_departments.png)
+  ![Pie Chart](employee_distribution_across_department.png)
 
 
 ## 📂 Project Files
