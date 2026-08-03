@@ -34,7 +34,6 @@ The dataset contains the following information:
 - Which department has the most employees?
 
 
-
 ## 🛠️ Tools Used
 
 - Google Sheets (Dataset Preparation)
@@ -43,12 +42,10 @@ The dataset contains the following information:
 - Matplotlib
 
 
-
 ## 📈 Visualizations
 
-- 📊 Average Salary Across Departments (Bar Chart)
-- 🥧 Employee Distribution Across Departments (Pie Chart)
-
+- Average Salary Across Departments (Bar Chart)
+- Employee Distribution Across Departments (Pie Chart)
 
 
 ## 📂 Project Files
@@ -58,7 +55,6 @@ The dataset contains the following information:
 - average_salary_across_departments.png
 - employee_distribution_across_departments.png
 - salary_analysis_output.png
-
 
 
 ## 🎯 Key Learnings
@@ -71,7 +67,6 @@ Through this project, I learned how to:
 - Answer business questions using Python
 - Create data visualizations using Matplotlib
 - Organize a Python data analytics project
-
 
 
 ## 👤 Created By
