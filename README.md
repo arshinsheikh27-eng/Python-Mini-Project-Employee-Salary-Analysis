@@ -1,18 +1,16 @@
-# Python Mini Project – Employee Salary Analysis
+# 📊 Python Mini Project – Employee Salary Analysis
 
-## Project Objective
+## 📌 Project Objective
 
 The objective of this project is to perform basic data analysis on an employee salary dataset and answer common business questions using Python. The project also demonstrates how data can be visualized using Matplotlib.
 
----
 
-## Project Overview
+## 📖 Project Overview
 
-The dataset was prepared using Google Sheets and analyzed using Python. Pandas was used for data exploration and analysis, while Matplotlib was used to create visualizations that provide meaningful business insights.
+The dataset was prepared using **Google Sheets** and analyzed using **Python**. **Pandas** was used for data exploration and analysis, while **Matplotlib** was used to create visualizations that provide meaningful business insights.
 
----
 
-## Dataset
+## 📁 Dataset
 
 The dataset contains the following information:
 
@@ -22,9 +20,8 @@ The dataset contains the following information:
 - Salary
 - Experience
 
----
 
-## Business Questions Solved
+## ❓ Business Questions Solved
 
 - What is the average salary?
 - What is the highest salary?
@@ -36,25 +33,25 @@ The dataset contains the following information:
 - Which department has the highest average salary?
 - Which department has the most employees?
 
----
 
-## Tools Used
+
+## 🛠️ Tools Used
 
 - Google Sheets (Dataset Preparation)
 - Python
 - Pandas
 - Matplotlib
 
----
 
-## Visualizations
 
-- Average Salary Across Departments (Bar Chart)
-- Employee Distribution Across Departments (Pie Chart)
+## 📈 Visualizations
 
----
+- 📊 Average Salary Across Departments (Bar Chart)
+- 🥧 Employee Distribution Across Departments (Pie Chart)
 
-## Project Files
+
+
+## 📂 Project Files
 
 - Employee_Salary.csv
 - employee_salary_analysis.py
@@ -62,9 +59,9 @@ The dataset contains the following information:
 - employee_distribution_across_departments.png
 - salary_analysis_output.png
 
----
 
-## Key Learnings
+
+## 🎯 Key Learnings
 
 Through this project, I learned how to:
 
@@ -75,9 +72,8 @@ Through this project, I learned how to:
 - Create data visualizations using Matplotlib
 - Organize a Python data analytics project
 
----
 
-## Author
+
+## 👤 Created By
+
 Arshin Sheikh
-
-Aspiring Data Analyst
